@@ -36,3 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
+
+.aboutBtn {
+	background-color: yellow;
+	padding: 32px 16px;
+}
+
+#pictures {
+	display: flex;
+	justify-content: space-evenly;
+}
